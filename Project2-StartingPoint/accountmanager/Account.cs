@@ -16,5 +16,7 @@ namespace accountmanager
 		public string firstName;
 		public string lastName;
 		public string email;
+
+        //mmayper
 	}
 }
